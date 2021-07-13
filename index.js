@@ -6,7 +6,7 @@ const config = require('./config.json');
 client.on("ready", () => {
 
     console.log("Bot online")
-    client.user.setActivity("Helping Other Bee's In Bumblebee Server!")
+    client.user.setActivity("In Ur Dms!")
 })
 
 
